@@ -1,0 +1,26 @@
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+
+.row {
+  font-size: larger;
+  text-align: center;
+  white-space: pre-wrap;
+  height: 90px;
+}
+
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+  border-right: 2px solid #000000;
+  max-height: 4vmin;
+  padding: 1vmin;
+}
+
+.btn {
+  background-color: #06aed5;
+}
